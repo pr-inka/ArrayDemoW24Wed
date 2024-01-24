@@ -6,7 +6,7 @@ package arrydemo;
 
 /**
  * hello This has been edited from remote
- * This is for frtch and merge
+ * This is for fetch and merge
  * @author prink
  */
 public class student {
